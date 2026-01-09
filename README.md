@@ -1,4 +1,4 @@
-# 🎮 Contrôleur HUD
+# 🎮 HUD Controleur
 
 **Mod pour CarX Drift Racing Online**
 
@@ -12,7 +12,7 @@ Personnalisation complète des couleurs de l'interface utilisateur.
 
 - 🎨 **Couleurs personnalisables** : Boutons, textes, icônes, bordures
 - 🌈 **Mode RVB** : Animation arc-en-ciel sur les textes
--  ⁇ ️ **Interface optimisée** : Popups noir, chat/chargement transparent
+- 🖥️ ️ **Interface optimisée** : Popups noir, chat/chargement transparent
 - 🎮 **Manette de support/clavier**
 
 ---
@@ -20,7 +20,7 @@ Personnalisation complète des couleurs de l'interface utilisateur.
 ## 📦 Installation
 
 1. Téléchargeur la dernière version dans [release](https://github.com/Silv3r25/HUDController-CXFR/releases)
-2. Placer `HUD_Controller.dll` dans `kino/mods/`
+2. Placer `HUDController_CXFR.dll` dans `kino/mods/`
 3. Lancer le jeu
 
 ---
