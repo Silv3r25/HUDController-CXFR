@@ -1,4 +1,4 @@
-# 🎮 HUD Controleur
+# 🎮 HUD Controller
 
 **Mod pour CarX Drift Racing Online**
 
