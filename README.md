@@ -22,7 +22,7 @@ A KSL mod for **CarX Drift Racing Online** that lets you fully customize the gam
 
 ## Installation
 
-1. Download `HUDControllerCXFR_Ksl.dll`
+1. Download `HUDController_CXFR.dll`
 2. Drop it in `CarX Drift Racing Online/kino/mods/`
 3. Launch the game — the mod loads automatically
 
@@ -47,3 +47,4 @@ Format is backward-compatible — presets created with older versions (7, 8, 9 o
 ## Author
 
 **SILVER** — v1.1.2
+**CarX France**
