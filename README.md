@@ -1,46 +1,49 @@
-# 🎮 HUD Controller
+# HUDController-CXFR
 
-**Mod pour CarX Drift Racing Online**
-
-Personnalisation complète des couleurs de l'interface utilisateur.
-
+A KSL mod for **CarX Drift Racing Online** that lets you fully customize the game's UI colors — per scene, with preset support and live preview.
 
 ![animiertes-gif-von-online-umwandeln-de (4)](https://github.com/user-attachments/assets/7e5881ee-36b5-43dd-80fd-0c53574d75a7)
 
+## Features
 
-## ✨ Fonctionnalités
+- **Per-scene color profiles** — independent color settings for Menu, Multiplayer, Garage, SelectCar, TimeAttack, Drift, Training, Dynostand
+- **10 configurable color slots per scene** — Button background, Button icon, Hover, Hover border, Menu text, Secondary text, Multiplayer text, Top bar glow, Room list background, Screen background
+- **Preset system** — save and load unlimited named presets from disk (`kino/mods/HUD_Presets/`)
+- **Built-in presets** — Dark, Light, Neon, Matrix, Sunset
+- **RGB effect** — animated hue cycling with adjustable speed, toggleable on title
+- **UI Theme tab** — customize the mod menu's own window colors
+- **Live apply** — colors update in real time without restarting the game
+- **Mod toggle** — enable/disable color overrides at runtime, original colors restored cleanly
 
-- 🎨 **Couleurs personnalisables** : Boutons, textes, icônes, bordures
-- 🌈 **Mode RVB** : Animation arc-en-ciel sur les textes
-- 🖥️ ️ **Interface optimisée** : Popups noir, chat/chargement transparent
-- 🎮 **Manette de support/clavier**
+## Requirements
 
----
+- [KSL](https://github.com/trbflxr/ksl) and [KSL.CarX](https://github.com/trbflxr/ksl_carx)
+- CarX Drift Racing Online Moddable (Steam)
 
-## 📦 Installation
+## Installation
 
-1. Téléchargeur la dernière version dans [release](https://github.com/Silv3r25/HUDController-CXFR/releases)
-2. Placer `HUDController_CXFR.dll` dans `kino/mods/`
-3. Lancer le jeu
+1. Download `HUDControllerCXFR_Ksl.dll`
+2. Drop it in `CarX Drift Racing Online/kino/mods/`
+3. Launch the game — the mod loads automatically
 
----
+## Usage
 
-##  ⌨️ ️ Raccourci
+Press `Ctrl + H` in-game to open the mod menu.
 
-**Ctrl + H** : Ouvrir/fermer le menu de configuration en jeu
+| Tab | Description |
+|---|---|
+| Colors | Per-scene color pickers |
+| UI Theme | Mod window appearance |
+| Presets | Save / load / delete presets |
+| Settings | Mod toggle, reset options |
+| Effects | RGB animation controls |
 
----
+Presets are stored as plain text files in `kino/mods/HUD_Presets/` and are fully portable.
 
-##  ⚙️ ️ Configuration
+## Compatibility
 
-Fichier :`kino/config/HUD_Controller.cfg`
+Format is backward-compatible — presets created with older versions (7, 8, 9 or 10 color values) load correctly.
 
-| Option | Description |
-|-------|-----------|
-| `Enabled` | Activer/désactiver le mod |
-| `Enabled` | Effet RVB sur les textes |
-| `Speed`| Vitesse de l'animation RVB |
+## Author
 
----
-
-**CARX FRANCE**
+**SILVER** — v1.1.2
