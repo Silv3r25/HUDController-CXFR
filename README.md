@@ -1,3 +1,8 @@
+[![Releases](https://img.shields.io/github/v/release/Silv3r25/HUDController-CXFR?include_prereleases&label=DOWNLOAD&style=for-the-badge)](https://github.com/Silv3r25/HUDController-CXFR/releases)
+![Downloads](https://img.shields.io/github/downloads/Silv3r25/HUDController-CXFR/total?label=TOTAL%20DOWNLOADS&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/1112653107185328218?label=DISCORD&style=for-the-badge)](https://discord.gg/hpR8NvwUYK)
+![Views](https://komarev.com/ghpvc/?username=Silv3r25&label=VIEWS&style=for-the-badge&color=brightgreen)
+
 # HUDController-CXFR
 
 A KSL mod for **CarX Drift Racing Online** that lets you fully customize the game's UI colors — per scene, with preset support and live preview.
